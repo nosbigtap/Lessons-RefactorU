@@ -1,0 +1,22 @@
+/* ADD YOUR STYLES HERE */
+.group1 {
+    padding-left: 80px;
+}
+.group1 > img {
+    padding:15px;
+}
+.group2 {
+    height: 200px;
+}
+.group2 img{
+    padding: 20px 50px;
+    float: left;
+}
+.group2 p {
+    float: left;
+    margin-top: 20px;
+}
+.group2 ol {
+    margin-left: 87%;
+    text-align: left;
+}

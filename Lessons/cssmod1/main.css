@@ -1,0 +1,62 @@
+/* ADD YOUR STYLES HERE */
+.data td {
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.bottom {
+    border-bottom: thin solid tan;
+}
+.Large {
+    font-size:50px;
+    font-weight: bold;
+    text-align: center;
+}
+.tiny {
+    color: gray;
+    text-align: center;
+    font-size: small;
+}
+
+.barChart {
+    background-color: cornFlowerBlue;
+    width: 100px;
+}
+.barChartContainer td {
+    width: 100%;
+    padding: 2px;
+}
+.container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.BG {
+    background-color: oliveDrab;
+    width: 100%;
+    Height: 100%;
+    text-align: center;
+    border-radius: 20px;
+    opacity: .8;
+  
+}
+.top {
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 500px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.media img{
+    float: left;
+}
+.cupcake > h2 p {
+    text-align: left;
+    float:left
+;
+}
