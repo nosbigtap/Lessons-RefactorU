@@ -5,11 +5,15 @@
 .group1 > img {
     padding:15px;
 }
+/* ------------------------------ */
+
+
+
 .group2 {
     height: 200px;
 }
 .group2 img{
-    padding: 20px 50px;
+    padding: 20px 20px;
     float: left;
 }
 .group2 p {
@@ -17,6 +21,108 @@
     margin-top: 20px;
 }
 .group2 ol {
-    margin-left: 87%;
+    margin-left: 70%;
     text-align: left;
+    padding-top: 20px;
+}
+
+/* ------------------------------ */
+
+
+.group3 {
+    padding: 100px 0px;
+}
+
+/* ------------------------------ */
+
+.group4 img {
+    float: left;
+    padding: 20px;
+}
+
+.group4 p {
+    float: left;
+    padding-top: 17px;
+}
+
+.group4 ol {
+    padding-top: 15px;
+    margin-left: 35%;
+}
+
+.HL li{
+    display: inline-block;
+}
+
+.buyNow {
+    background-color: lightCoral;
+    border: none;
+    color: white;
+    padding: 15px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px
+    
+}
+.learnMore {
+    background-color: lightCoral;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.OK {
+    background-color: lightCoral;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.buttons {
+    background-color: lightCoral;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.navBar {
+    background-color: lightCoral; 
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.navBar li {
+    display: inline;
+    padding: 0px 20px;
+}
+.navBar a {
+    text-decoration: none;
+    color: white;
+}
+
+.navBar a:hover {
+    color: darkCyan;
+    text-decoration: overline;
+    font-size: x-large;
 }

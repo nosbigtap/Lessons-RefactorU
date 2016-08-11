@@ -35,12 +35,12 @@
     left: 0;
 }
 .BG {
-    background-color: oliveDrab;
+    background-color: rgba(75,75,75,.8);
     width: 100%;
     Height: 100%;
     text-align: center;
     border-radius: 20px;
-    opacity: .8;
+    
   
 }
 .top {
@@ -54,9 +54,15 @@
 }
 .media img{
     float: left;
+    padding-right: 10px;
 }
 .cupcake > h2 p {
     text-align: left;
-    float:left
-;
+    float:left;
+}
+ 
+.moreCupcake {
+    height:100px;
+    vertical-align: middle;
+    display: inline-block;
 }
